@@ -10,5 +10,7 @@
   "configuration": "Release",
   "s3-prefix": "ApiSegundaPractica/",
   "template": "serverless.template",
-  "template-parameters": ""
+  "template-parameters": "",
+  "s3-bucket": "bucket-segunda-practica",
+  "stack-name": "ApiSegundaPractica"
 }
